@@ -1,0 +1,11 @@
+com\Employees\EmployeesManagement\DatabaseConnection.class
+com\Employees\EmployeesManagement\SecurityUserDetailsService.class
+com\Employees\EmployeesManagement\ReactEmployeesController.class
+com\Employees\EmployeesManagement\Employee.class
+com\Employees\EmployeesManagement\Login.class
+com\Employees\EmployeesManagement\EmployeeRestController.class
+com\Employees\EmployeesManagement\ApplicationConfig.class
+com\Employees\EmployeesManagement\AuthProvider.class
+com\Employees\EmployeesManagement\Employee_CV.class
+com\Employees\EmployeesManagement\EmployeesManagementApplication.class
+com\Employees\EmployeesManagement\WebConfig.class
